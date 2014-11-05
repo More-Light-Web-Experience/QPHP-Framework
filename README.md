@@ -1,7 +1,7 @@
 QPHP-Framework
 ==============
 
-a simple and light php framework for new phpers,study now
+a simple and light php framework for new phpers.
 There are so many php framework now, some large some simple,
 we sometimes have no ideas how to select a good one for us.
 Especially for fresh phper like me.
